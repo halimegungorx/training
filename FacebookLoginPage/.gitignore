@@ -1,0 +1,6 @@
+node_modules
+.package-log
+package
+package-log
+postcss.config
+tailwind.config
